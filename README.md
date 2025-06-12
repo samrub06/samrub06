@@ -12,7 +12,7 @@ I'm a passionate Fullstack Developer with over 4 years of experience building sc
   * Led development of an energy simulation platform using React, Node.js, MongoDB, AWS
   * Built a large-scale e-commerce backoffice with contract setup, warehouse tools, and supplier management
   * Currently building a **HR SaaS platform** to streamline recruitment and talent management
-* 🚀 I value type safety, clean architecture, good testing practices, and DevOps automation
+* 🚀 I value type safety, clean architecture and good testing practices
 
 ---
 
